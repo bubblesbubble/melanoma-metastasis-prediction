@@ -90,4 +90,4 @@ Used **SHAP (SHapley Additive Explanations)** on LightGBM to interpret predictio
 
 Exported the **Top 200 important genes** using LightGBM feature importance for downstream pathway / biomarker analysis.
 
-## Team members: Diya Singh, Aarushi Arora, Pihu
+## Team members: Diya Singh, Aarushi Arora
